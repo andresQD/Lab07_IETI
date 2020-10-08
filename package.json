@@ -1,0 +1,14 @@
+{
+  "name": "task-planner-api-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Quintero",
+  "license": "ISC",
+  "dependencies": {
+    "uniqid": "^5.2.0"
+  }
+}
